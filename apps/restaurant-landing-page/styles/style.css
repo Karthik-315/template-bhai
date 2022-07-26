@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  * {
+    @apply box-border;
+  }
+
+  html {
+    @apply h-full text-xs lg:text-base;
+  }
+
+  body {
+    @apply font-poppins min-h-full bg-neutral-50;
+  }
+}
