@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Digital Agency",
+        "link": "/templates/digital-agency"
+    },
+    {
+        "name": "E-commerce Template",
+        "link": "/templates/e-commerce-template"
+    },
+    {
+        "name": "Finance Template",
+        "link": "/templates/finance-template"
+    },
+    {
+        "name": "Job Finding Landing Page",
+        "link": "/templates/job-finding-landing-page"
+    },
+    {
+        "name": "Product Designer Portfolio",
+        "link": "/templates/product-designer-portfolio"
+    },
+    {
+        "name": "Simple Portfolio",
+        "link": "/templates/simple-portfolio-template"
+    }
+]
